@@ -1,0 +1,16 @@
+D:\kinect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+D:\kinect\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+D:\kinect\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+D:\kinect\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+D:\kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojAssemblyReference.cache
+D:\kinect\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+D:\kinect\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\kinect\SkeletonBasics-WPF\obj\Debug\App.g.cs
+D:\kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+D:\kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+D:\kinect\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+D:\kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.cache
+D:\kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.CoreCompileInputs.cache
+D:\kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.CopyComplete
+D:\kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+D:\kinect\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
